@@ -14,13 +14,13 @@ Serviços:
 ```
 
 ## Passos para rodar o projeto
-### 1. <small>É necessário ter ```Docker``` instalado na máquina</small>
+1. <small>É necessário ter ```Docker``` instalado na máquina</small>
 
-### 2. <small> Acessar a pasta do projeto ```cd Alexandre Tonin```</small>
+2. <small> Acessar a pasta do projeto ```cd Alexandre Tonin```</small>
 
-### 3. <small>Criar o container a partir da imagem descrita no arquivo docker-compose.yml: rodar o comando ```docker compose --build``` no terminal</small>
+3. <small>Criar o container a partir da imagem descrita no arquivo docker-compose.yml: rodar o comando ```docker compose --build``` no terminal</small>
 
-### 4. <small>Acessar no navegador a seguinte url ```http://localhost:3000/users``` ou acessar os endpoints desejados da API na porta 3000</small>
+4. <small>Acessar no navegador a seguinte url ```http://localhost:3000/users``` ou acessar os endpoints desejados da API na porta 3000</small>
 
 
 
