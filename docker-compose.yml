@@ -5,6 +5,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
+    image: api-nodejs-postgres
     ports:
       - "3000:3000"
     depends_on:
